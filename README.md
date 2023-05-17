@@ -58,3 +58,10 @@ npx create-next-app@latest ./
 ```
 npm install bcrypt mongodb mongoose next-auth
 ```
+
+* Then, delete the `app` directory and create a new one from scratch.
+* Next, we add another directory in the root folder called `components` for our reusable components.
+* Consequently, we add another directory in the root folder called `mdoels` for our Mongodb mongoose database models.
+* Moreover, we also delete the `public` directory and create a new one from scratch.
+* Then, we create the `styles` directory in the root folder for our global styles.
+* And then finally, we create the `utils` directory in the root folder for our utility functions.
