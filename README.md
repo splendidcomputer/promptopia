@@ -65,3 +65,4 @@ npm install bcrypt mongodb mongoose next-auth
 * Moreover, we also delete the `public` directory and create a new one from scratch.
 * Then, we create the `styles` directory in the root folder for our global styles.
 * And then finally, we create the `utils` directory in the root folder for our utility functions.
+* One last file that we create is the `.env` file in the root folder for our environment variables.
