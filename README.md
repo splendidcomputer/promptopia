@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-# Notes:
+# Setup:
 * Install Next.js using the following settings:
 
 ```
@@ -66,3 +66,9 @@ npm install bcrypt mongodb mongoose next-auth
 * Then, we create the `styles` directory in the root folder for our global styles.
 * And then finally, we create the `utils` directory in the root folder for our utility functions.
 * One last file that we create is the `.env` file in the root folder for our environment variables.
+* We also need to download the assets from [here](https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view) and unzip and paste them in the `public` directory so that the directory structure looks like this:
+
+<p align="center">
+  <img src="./documentation/figs/assets_fig_dir.png" alt="assets directory structure" />
+</p>
+
